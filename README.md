@@ -1,16 +1,23 @@
-# flashlight
+# 🔦 Flashlight App
 
-A new Flutter project.
+A simple and elegant flashlight application built with Flutter that allows you to quickly turn your device's flashlight on and off with just one tap.
 
-## Getting Started
+https://img.shields.io/badge/Flutter-3.19-blue?style=flat&logo=flutter
+https://img.shields.io/badge/Dart-3.1-blue?style=flat&logo=dart
+https://img.shields.io/badge/License-MIT-green?style=flat
 
-This project is a starting point for a Flutter application.
+# ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+One-Tap Control - Simple toggle to turn flashlight ON/OFF
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Clean UI - Intuitive and user-friendly interface
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Cross-Platform - Works on both Android and iOS
+
+Minimal Permissions - Only requests necessary camera access
+
+State Indication - Visual feedback showing flashlight status
+
+
+
+<div align="center"> Made with ❤️ using Flutter </div>
